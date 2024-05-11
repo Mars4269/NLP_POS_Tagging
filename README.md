@@ -1,6 +1,6 @@
 # NLP_POS_Tagging
 
-AUTHORS: 
+\textbf{AUTHORS}
 
 { giorgio.adragna, chiara.bellatreccia, francesco.cavaleri2, marcello.mancino }@studio.unibo.it
 
